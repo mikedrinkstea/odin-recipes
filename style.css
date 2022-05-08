@@ -1,0 +1,26 @@
+h1,
+h2,
+h3 {
+    color: darkolivegreen;
+    background-color: white;
+}
+
+p,
+li {
+    color: darkolivegreen;
+    font-family: "Arial", sans-serif;
+}
+
+.link,
+a {
+    background-color: darkolivegreen;
+    color: white;
+}
+
+body {
+    background-color: lightyellow;
+}
+
+.link {
+    align-content: flex-end;
+}
